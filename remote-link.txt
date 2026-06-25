@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://meetings-corner-memories-where.trycloudflare.com/vnc.html
+URL       : https://suddenly-amounts-directions-script.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-25 10:32:33
+Created   : 2026-06-25 21:18:42
 =======================================================
