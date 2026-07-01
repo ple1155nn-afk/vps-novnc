@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hire-bracelet-grounds-intelligence.trycloudflare.com/vnc.html
+URL       : https://suits-internship-syndrome-edward.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-01 11:43:12
+Created   : 2026-07-01 21:03:15
 =======================================================
