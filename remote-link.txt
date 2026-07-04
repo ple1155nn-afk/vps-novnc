@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://argument-cedar-regional-emerald.trycloudflare.com/vnc.html
+URL       : https://millennium-isolated-atmosphere-recruiting.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 23:42:10
+Created   : 2026-07-04 09:11:35
 =======================================================
