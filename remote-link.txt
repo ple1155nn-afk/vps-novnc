@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://closes-angeles-linked-thumbzilla.trycloudflare.com/vnc.html
+URL       : https://modelling-awesome-happy-boston.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 14:52:47
+Created   : 2026-07-04 18:19:01
 =======================================================
