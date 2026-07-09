@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://generous-runner-westminster-entered.trycloudflare.com/vnc.html
+URL       : https://front-magic-max-october.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-09 11:26:15
+Created   : 2026-07-09 21:02:02
 =======================================================
