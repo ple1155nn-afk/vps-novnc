@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://devices-commission-italic-stages.trycloudflare.com/vnc.html
+URL       : https://generous-runner-westminster-entered.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-08 23:45:34
+Created   : 2026-07-09 11:26:15
 =======================================================
