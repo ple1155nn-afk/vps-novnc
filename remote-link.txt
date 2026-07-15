@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://spring-range-limited-emacs.trycloudflare.com/vnc.html
+URL       : https://besides-def-bigger-locking.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-15 07:31:42
+Created   : 2026-07-15 15:15:26
 =======================================================
