@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://class-workshops-bin-cage.trycloudflare.com/vnc.html
+URL       : https://collar-speech-current-explaining.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 01:27:20
+Created   : 2026-08-02 07:27:55
 =======================================================
