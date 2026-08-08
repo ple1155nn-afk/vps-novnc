@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://please-frames-unions-dem.trycloudflare.com/vnc.html
+URL       : https://creating-host-ban-camp.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 00:43:21
+Created   : 2026-08-08 05:36:10
 =======================================================
