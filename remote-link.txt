@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sie-lewis-pads-indicators.trycloudflare.com/vnc.html
+URL       : https://pharmaceuticals-new-inbox-workshops.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 10:51:24
+Created   : 2026-08-12 15:49:01
 =======================================================
