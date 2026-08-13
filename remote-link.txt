@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wizard-processed-presenting-sim.trycloudflare.com/vnc.html
+URL       : https://candles-track-revolutionary-required.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 00:56:15
+Created   : 2026-08-13 06:10:50
 =======================================================
