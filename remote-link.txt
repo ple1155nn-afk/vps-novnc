@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://volunteers-guardian-inline-logs.trycloudflare.com/vnc.html
+URL       : https://partnerships-euro-tile-hugh.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 05:18:33
+Created   : 2026-08-16 10:13:13
 =======================================================
