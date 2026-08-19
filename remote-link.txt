@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://friendly-beatles-ones-assessment.trycloudflare.com/vnc.html
+URL       : https://dennis-condition-paintball-person.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 15:21:47
+Created   : 2026-08-19 20:15:09
 =======================================================
