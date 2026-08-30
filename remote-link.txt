@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wishing-influences-producer-opposite.trycloudflare.com/vnc.html
+URL       : https://kruger-allen-medicine-discussions.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 22:07:14
+Created   : 2026-08-30 02:01:32
 =======================================================
