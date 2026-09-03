@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://spreading-trained-armstrong-shelter.trycloudflare.com/vnc.html
+URL       : https://fate-clarity-escape-advisory.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-03 14:00:57
+Created   : 2026-09-03 18:12:56
 =======================================================
