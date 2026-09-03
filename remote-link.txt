@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wisconsin-were-makers-pill.trycloudflare.com/vnc.html
+URL       : https://scoring-baths-wild-carbon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-03 01:45:01
+Created   : 2026-09-03 09:18:23
 =======================================================
