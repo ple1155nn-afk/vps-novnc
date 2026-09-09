@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://examinations-accepting-liver-argue.trycloudflare.com/vnc.html
+URL       : https://script-went-constantly-dictionary.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-08 22:07:47
+Created   : 2026-09-09 01:49:48
 =======================================================
