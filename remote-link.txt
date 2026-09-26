@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://disclosure-governmental-nail-degree.trycloudflare.com/vnc.html
+URL       : https://science-districts-designated-assumption.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-25 22:55:29
+Created   : 2026-09-26 02:15:08
 =======================================================
