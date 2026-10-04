@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://striking-conceptual-mail-pirates.trycloudflare.com/vnc.html
+URL       : https://information-local-metals-pilot.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 03:06:21
+Created   : 2026-10-04 10:49:30
 =======================================================
