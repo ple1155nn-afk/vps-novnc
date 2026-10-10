@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://author-parameters-placement-eyes.trycloudflare.com/vnc.html
+URL       : https://stem-set-heating-kurt.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 19:01:53
+Created   : 2026-10-10 23:03:00
 =======================================================
