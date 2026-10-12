@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vocational-immigrants-mud-replication.trycloudflare.com/vnc.html
+URL       : https://cape-nirvana-polar-has.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-12 02:54:41
+Created   : 2026-10-12 12:33:19
 =======================================================
