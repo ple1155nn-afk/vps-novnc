@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://optimization-legendary-shots-opens.trycloudflare.com/vnc.html
+URL       : https://vocational-immigrants-mud-replication.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-11 23:18:31
+Created   : 2026-10-12 02:54:41
 =======================================================
