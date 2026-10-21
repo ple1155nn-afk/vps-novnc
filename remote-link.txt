@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tough-currently-aware-affected.trycloudflare.com/vnc.html
+URL       : https://centres-pointer-link-cottages.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 02:15:46
+Created   : 2026-10-21 09:45:26
 =======================================================
