@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sink-examined-harris-suddenly.trycloudflare.com/vnc.html
+URL       : https://pierre-blah-herself-into.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 18:56:44
+Created   : 2026-10-22 22:52:10
 =======================================================
