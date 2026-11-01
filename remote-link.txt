@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://striking-discharge-sacred-virgin.trycloudflare.com/vnc.html
+URL       : https://capture-consensus-counting-button.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 22:56:41
+Created   : 2026-11-01 02:52:45
 =======================================================
