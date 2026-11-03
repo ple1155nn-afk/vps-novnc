@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://but-textbooks-jenny-hand.trycloudflare.com/vnc.html
+URL       : https://pays-yields-farmers-months.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 22:57:56
+Created   : 2026-11-03 04:17:49
 =======================================================
